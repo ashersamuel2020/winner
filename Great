@@ -1,0 +1,6 @@
+1 #include<stdio.L>
+2 into main(void)
+3
+4{
+5 printf("hello,world \n");
+6 }
